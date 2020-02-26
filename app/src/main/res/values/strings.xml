@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Рандом</string>
+    <string name="hello_word_text">0</string>
+    <string name="random_heading">Это случайное число 0 и %1d</string>
+</resources>
